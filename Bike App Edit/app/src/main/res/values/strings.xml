@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bicycle Turnsignals</string>
+    <string-array name="directions">
+        <item>Straight</item>
+        <item>Right</item>
+        <item>Back</item>
+        <item>Left</item>
+        <item>Unknown</item>
+    </string-array>
+
+</resources>
